@@ -7,7 +7,7 @@ import ProgressControl from './components/ProgressControl';
 
 export default function App() {
   return (
-    <div>
+    <div class="main-container">
       <section class="register-container col col-lg-6 col-sm-12" data-phase="1" data-total-price="0">          
         <StepProgess />
         <section class="form-container col col-12">

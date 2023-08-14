@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# 介紹
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ALPHA Shop I：元件拆分
 
-## Available Scripts
+## 預覽圖
 
-In the project directory, you can run:
 
 ### `npm start`
 
