@@ -4,7 +4,8 @@ ALPHA Shop I：元件拆分
 
 ## 預覽圖
 
-![圖片](https://github.com/sigox/3S2A4/assets/131880018/4e711c85-fd8c-486c-bef8-d3779bb17d94)
+![圖片](https://github.com/sigox/3S2A4/assets/131880018/a551d259-7e54-4688-b661-aad98216fd2a)
+
 
 ## 執行方式
 
